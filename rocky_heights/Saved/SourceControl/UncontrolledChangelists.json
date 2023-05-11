@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/Rocky.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Textures/back.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Textures/dirtfloor.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Textures/forest_background.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Textures/middle.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Textures/props.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Textures/tileset.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/climb/player-climb-1.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/climb/player-climb-2.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/climb/player-climb-3.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/crouch/player-crouch-1.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/crouch/player-crouch-2.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/hurt/player-hurt-1.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/hurt/player-hurt-2.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/idle/player-idle-1.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/idle/player-idle-2.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/idle/player-idle-3.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/idle/player-idle-4.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/jump/player-jump-1.uasset",
+				"C:/Users/user/OneDrive/Documents/GitHub/rocky-heights/rocky_heights/Content/Sprites/jump/player-jump-2.uasset"
+			]
+		}
+	]
+}
